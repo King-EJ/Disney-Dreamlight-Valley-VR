@@ -26,6 +26,7 @@ THE VIEWS
 * Recentre: click both sticks together.
 
 CONTROLS (the VR controllers are an Xbox pad, button for button)
+-
 Start (menu): left grip + Y.
 
 Back (quest): left grip + X.
