@@ -43,6 +43,8 @@ The game is told a gamepad is in use, so it shows its gamepad controls and butto
 
 Every button can be changed in BepInEx\config\ddv.vr.cfg [Controls] (live: save while playing).
 
+B and X is swap can change in VR SETTINGS MENU 
+
 VR SETTINGS MENU: hold Y + click the left stick for 1.7 s.
 
 HUD / MENUS are shown on a floating screen in front of you ([UI] Distance, Width, HeightOffset).
