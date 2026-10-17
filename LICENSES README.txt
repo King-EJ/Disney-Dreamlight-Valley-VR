@@ -1,13 +1,5 @@
 VR MOD Informations
 
-Plugin Name: MousePI_VR
-Author: Astien (© 2025)
-Version: 1.0.0
-
-License for MousePI_VR:
-
-This plugin (MousePI_VR.dll) is distributed under the following license:
-
 Custom License – Free Redistribution or Modification, No Commercial Use
 © 2025 Astien — All rights reserved except as stated below.
 
